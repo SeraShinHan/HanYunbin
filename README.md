@@ -18,6 +18,7 @@
 >	>	>      /디자인 : Adobe Illustrator, Adobe Indesign
 >	>	>      /일러스트레이션 : Adobe Photoshop, Clip studio, Gimp
 >	> #사운드 : Cubase
+>	> #방송 :  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
