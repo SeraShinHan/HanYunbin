@@ -10,7 +10,7 @@
 >	>	>     /JAVA : Java, Servlet/JSP
 >	>	>     /WAS : Apache/Tomcat
 >	>	>     /프론트 : HTML, HTML5, CSS, Bootstrap, Javascript
->	>	>     /딥러닝 : Python, Keras, OpenCV, Pandas
+>	>	>     /딥러닝 : Python, Keras, OpenCV, Pandas, pytorch
 >	>	>     /게임 : Unity
 >	> #디자인 : 
 >	>	>      /3d 모델링 : 3d max, Blender, Zbrush
