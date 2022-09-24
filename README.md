@@ -24,7 +24,7 @@
 >	> #언어 : 
 >	>	>      English, 日本語, 한국어  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... send mail for me ^^ aehanyunbin@gmail.com
+- 📫 How to reach me ... send mail for me ^^ aehanyunbin@gmail.com / or / At https://aehanyunbin.tistory.com/1 U can write your message at the comment box,  Then I will check it. U can also can see my Artwork portfolio in there.
 
 두다다다다!
 
