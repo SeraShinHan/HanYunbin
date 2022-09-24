@@ -21,6 +21,8 @@
 >	>	>      Cubase
 >	> #방송 :
 >	>	>      OBS Studio, Equalizer APO, VTube Studio
+>	> #문서편집 :
+>	>	>      Office, google docks, hancom office
 >	> #언어 : 
 >	>	>      English, 日本語, 한국어  
 - 💞️ I’m looking to collaborate on ...
