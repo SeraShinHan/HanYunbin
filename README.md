@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... 
 >	> #프로그래밍 : 
 >	>	>     /OS : Window, Linux
->	>	>     /개발툴 : Eclipse, IntelliJ, Colaboratory, Github
+>	>	>     /개발툴 : Eclipse, IntelliJ, Colaboratory, visual studio code
+>	>	>     /형상관리 : github
 >	>	>     /언어 : JAVA, Python
 >	>	>     /DBMS : Oracle + MySQL
 >	>	>     /JAVA : Java, Servlet/JSP
@@ -13,7 +14,9 @@
 >	>	>     /게임 : Unity
 >	> #디자인 : 
 >	>	>      /3d 모델링 : 3d max, Blender, Zbrush
->	>	>      /디자인 : Adobe Photoshop, Adobe Premere Pro, Adobe After Effect, Adobe Illustrator, Adobe Indesign, Clip studio, Gimp
+>	>	>      /영상 : Adobe Premere Pro, Adobe After Effect
+>	>	>      /디자인 : Adobe Illustrator, Adobe Indesign
+>	>	>      /일러스트레이션 : Adobe Photoshop, Clip studio, Gimp
 >	> #사운드 : Cubase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
