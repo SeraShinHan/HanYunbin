@@ -5,7 +5,7 @@
 >	>	>     /OS : Window, Linux
 >	>	>     /개발툴 : Eclipse, IntelliJ, Colaboratory, visual studio code, Jupyter
 >	>	>     /형상관리 : github
->	>	>     /언어 : JAVA, Python
+>	>	>     /언어 : JAVA, Python, C#
 >	>	>     /DBMS : Oracle + MySQL
 >	>	>     /JAVA : Java, Servlet/JSP
 >	>	>     /WAS : Apache/Tomcat
