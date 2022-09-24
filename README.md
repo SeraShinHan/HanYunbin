@@ -17,9 +17,12 @@
 >	>	>      /영상 : Adobe Premere Pro, Adobe After Effect
 >	>	>      /디자인 : Adobe Illustrator, Adobe Indesign
 >	>	>      /일러스트레이션 : Adobe Photoshop, Clip studio, Gimp
->	> #사운드 : Cubase
->	> #방송 : OBS Studio, Equalizer APO, VTube Studio
->	> #언어 : English, 日本語, 한국어  
+>	> #사운드 : 
+>	>	>      Cubase
+>	> #방송 :
+>	>	>      OBS Studio, Equalizer APO, VTube Studio
+>	> #언어 : 
+>	>	>      English, 日本語, 한국어  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send mail for me ^^ aehanyunbin@gmail.com
 
