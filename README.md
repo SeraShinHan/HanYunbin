@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... 
 >	> #프로그래밍 : 
 >	>	>     /OS : Window, Linux
->	>	>     /개발툴 : Eclipse, IntelliJ, Colaboratory, visual studio code
+>	>	>     /개발툴 : Eclipse, IntelliJ, Colaboratory, visual studio code, Jupyter
 >	>	>     /형상관리 : github
 >	>	>     /언어 : JAVA, Python
 >	>	>     /DBMS : Oracle + MySQL
